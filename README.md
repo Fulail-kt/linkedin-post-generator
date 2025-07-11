@@ -14,10 +14,9 @@ An AI-powered LinkedIn post generator that creates engaging, professional posts 
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15, React 19, TypeScript
-- **UI Components**: Material-UI (MUI) with LinkedIn-inspired theming
+- **UI Components**: Material-UI (MUI)
 - **AI/ML**: [BAML](https://docs.boundaryml.com/) for AI function orchestration
 - **AI Models**: OpenAI (GPT-4o, GPT-4o-mini), Anthropic (Claude)
-- **State Management**: React hooks for local state management
 
 ## 🚀 Getting Started
 
