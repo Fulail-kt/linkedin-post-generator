@@ -31,7 +31,7 @@ An AI-powered LinkedIn post generator that creates engaging, professional posts 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/linkedin-post-generator.git](https://github.com/Fulail-kt/linkedin-post-generator.git)
+   git clone https://github.com/Fulail-kt/linkedin-post-generator.git
    cd linkedin-post-generator
    ```
 
